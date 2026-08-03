@@ -7,7 +7,7 @@ A visual time and timezone tracker that beautifully maps the current time in dif
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/ais-remix-chronos-visual-time.git
+git clone https://github.com/AndrewVoirol/ais-remix-chronos-visual-time.git
 cd ais-remix-chronos-visual-time
 npm install
 npm run dev
