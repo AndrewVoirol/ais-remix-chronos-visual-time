@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Sun, Moon, Coffee, Utensils, Wine, Bed, Globe, Cloud, Star, Sparkles } from 'lucide-react';
+import { Sun, Moon, Coffee, Utensils, Wine, Bed, Globe, Cloud, Star } from 'lucide-react';
 import { CITIES, City } from './constants';
 
 // Utility to get time as a fraction of the day (0 to 1)

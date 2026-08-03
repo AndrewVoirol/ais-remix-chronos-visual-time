@@ -25,6 +25,8 @@ The sun and moon positions are calculated using simple trigonometric functions a
 
 ![Default View](screenshots/initial-state.png)
 
+![Filtered by Continent](screenshots/filtered-state.png)
+
 ## Tech Stack
 
 | Category | Technology |
